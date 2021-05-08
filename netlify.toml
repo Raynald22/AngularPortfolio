@@ -1,5 +1,5 @@
 [build]
-  publish = "dist/Angularfolio"
+  publish = "dist/portfolio"
   command = "ng build --prod"
 [[redirects]]
   from = "/*"
