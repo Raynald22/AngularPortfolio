@@ -13,8 +13,7 @@ export class SkillsComponent implements OnInit {
     skills: [
       '⚡ Develop highly interactive Front end / User Interfaces for your web',
       '⚡ Creating application backend in Java, Laravel/Codeigniter & NodeJs',
-      '⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks',
-      '⚡ Integration of third party services such as Firebase/ Heroku/ AWS',
+      '⚡ Integration of third party services such as Firebase/ Heroku/ Netlify',
     ],
   };
   constructor() {}

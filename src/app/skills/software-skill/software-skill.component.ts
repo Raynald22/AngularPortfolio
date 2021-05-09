@@ -42,7 +42,7 @@ export class SoftwareSkillComponent implements OnInit {
       },
       {
         skillName: 'Java',
-        fontAwesomeClassname: 'fab fa-java',
+        fontAwesomeClassname: 'fa fa-java',
       },
       // {
       //   skillName: "Tensorflow",
