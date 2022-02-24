@@ -52,7 +52,7 @@ export class GreetingComponent implements OnInit {
     subTitle:
       'A passionate Software Developer 🚀 having an experience of building Web with JavaScript / Angularjs / Java and some other cool libraries and frameworks.',
     resumeLink:
-      'https://drive.google.com/file/d/1hZIB_u7w57xedYvfTz8X_Wn3_zjCFH-s/view?usp=sharing',
+      'https://drive.google.com/file/d/1sZXrGd6afBzj7HoxxRqiLIZMytB_K-y1/view?usp=sharing',
   };
   constructor() {}
 
