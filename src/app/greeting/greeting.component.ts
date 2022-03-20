@@ -50,9 +50,9 @@ export class GreetingComponent implements OnInit {
     username: 'Reynaldi Fikri',
     title: "Hi, I'm Reynaldi Fikri",
     subTitle:
-      'A passionate Software Developer 🚀 having an experience of building Web with JavaScript / Angular / Java and some other cool libraries and frameworks.',
+    'A passionate Software Developer 🚀 having an experience of building Web with JavaScript / Angular / Java and some other cool libraries and frameworks.',
     resumeLink:
-      'https://drive.google.com/file/d/1LWTo6Y-H-kYfnGG5awJcq9CbyDvzRCA2/view?usp=sharing',
+      'https://drive.google.com/file/d/1LWTo6Y-H-kYfnGG5awJcq9CbyDvzRCA2/view',
   };
   constructor() {}
 
