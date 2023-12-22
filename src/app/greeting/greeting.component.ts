@@ -48,7 +48,7 @@ import {
 export class GreetingComponent implements OnInit {
   greeting = {
     username: 'Reynaldi Fikri',
-    title: "Hi, I'm Reynaldi Fikri",
+    title: "Hi, I'm Reynaldi Fikri Hidayat",
     subTitle:
     'A passionate Software Developer 🚀 having an experience of building Web with JavaScript / Angular / Java and some other cool libraries and frameworks.',
     resumeLink:
